@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DiJoKo 32 yrs old from Germany
+- 👋 Hi, I’m @DiJoKo 33 yrs young from Germany
 - 👀 I’m interested in creating a Smokestop App with Alexa compatibilty
 - 🌱 I’m currently a total newb and need help to create the App
 - I got no Computer available to code further, just a Smartphone.
